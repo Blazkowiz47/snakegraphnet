@@ -7,4 +7,4 @@ Code available soon!!!
 MIT License
 
 ## Contact
-For more information please contact [Sushrut patwardhan](www.github.com/blazkowiz47), [Raghavendra Ramachandra](https://www.ntnu.edu/employees/raghavendra.ramachandra).
+For more information please contact [Sushrut patwardhan](https://github.com/Blazkowiz47), [Raghavendra Ramachandra](https://www.ntnu.edu/employees/raghavendra.ramachandra).
